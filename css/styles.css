@@ -1,0 +1,55 @@
+.container{
+	width: 500px;
+    height: 610px;
+    margin: 0px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    border: 5px solid green;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/giant-panda-eating-bamboo-gerry-ellis.jpg);
+}
+
+h1{    
+	text-align: center;
+    border: 4px solid #1bec1b;
+    margin: 10px 10px 5px 5px;
+    background-color: linen;
+    opacity: 0.75;
+}
+
+h3{
+	margin: 7px 5px 2px 5px;
+}
+
+li{
+	list-style: none;
+}
+
+span{
+	font-weight: bold;
+}
+
+#fact{
+	font-style: italic;
+    margin: 5px 10px 5px 10px;
+}
+
+img {
+    width: 300px;
+    margin: 5px 100px 5px 100px;
+    border: 5px double #55ea55;
+}
+
+.text{
+	font-size: 17px;
+    text-align: left;
+    background-color: linen;
+    opacity: 0.75;
+    border: 3px solid;
+    margin: 0px 5px 2px 1px;
+    padding: 0px 6px 0px 8px;
+    border-radius: 10px;
+    line-height: 20px;
+}
+
